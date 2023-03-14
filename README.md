@@ -1,6 +1,6 @@
 # Pyautogui
-Automação de Sistemas e Processos com Python
-Desafio:
+<div><h1>Automação de Sistemas e Processos com Python<h1></div>
+<div><h2>Desafio:<h2></div>
 Para controle de custos, todos os dias, seu chefe pede um relatório com todas as compras de mercadorias da empresa. O seu trabalho, como analista, é enviar um e-mail para ele, assim que começar a trabalhar, com o total gasto, a quantidade de produtos compradas e o preço médio dos produtos.
 
 E-mail do seu chefe: para o nosso exercício, coloque um e-mail seu como sendo o e-mail do seu chefe
